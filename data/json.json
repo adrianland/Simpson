@@ -1,0 +1,62 @@
+[
+    {
+        "quote": "Last night's 'Itchy and Scratchy' was, without a doubt, the worst episode ever. Rest assured that I was on the Internet within minutes, registering my disgust throughout the world.",
+        "character": "Comic Book Guy",
+        "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FComicBookGuy.png?1497567511970",
+        "characterDirection": "Right"
+    },
+    {
+        "quote": "Can't we have one meeting that doesn't end with us digging up a corpse?",
+        "character": "Mayor Quimby",
+        "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FMayorQuimby.png?1497627527799",
+        "characterDirection": "Left"
+    },
+    {
+        "quote": "But my mom says I'm cool.",
+        "character": "Milhouse Van Houten",
+        "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FMilhouseVanHouten.png?1497567513002",
+        "characterDirection": "Right"
+    },
+    {
+        "quote": "Oh, wow, windows. I don't think I could afford this place.",
+        "character": "Otto",
+        "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FOttoMann.png?1497567511803",
+        "characterDirection": "Left"
+    },
+    {
+        "quote": "Hi, Super Nintendo Chalmers!",
+        "character": "Ralph Wiggum",
+        "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FRalphWiggum.png?1497567511523",
+        "characterDirection": "Left"
+    },
+    {
+        "quote": "You're turning me into a criminal when all I want to be is a petty thug.",
+        "character": "Bart Simpson",
+        "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FBartSimpson.png?1497567511638",
+        "characterDirection": "Right"
+    },
+    {
+        "quote": "I believe the children are the future... Unless we stop them now!",
+        "character": "Homer Simpson",
+        "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FHomerSimpson.png?1497567511939",
+        "characterDirection": "Right"
+    },
+    {
+        "quote": "For once maybe someone will call me \"sir\" without adding, \"You're making a scene.\"",
+        "character": "Homer Simpson",
+        "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FHomerSimpson.png?1497567511939",
+        "characterDirection": "Right"
+    },
+    {
+        "quote": "I hope I didn't brain my damage.",
+        "character": "Homer Simpson",
+        "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FHomerSimpson.png?1497567511939",
+        "characterDirection": "Right"
+    },
+    {
+        "quote": "I think women and seamen don't mix",
+        "character": "Waylon Smithers",
+        "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FWaylonSmithers.png?1497567511840",
+        "characterDirection": "Left"
+    }
+]
